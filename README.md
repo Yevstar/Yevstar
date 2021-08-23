@@ -12,7 +12,7 @@ Tech Skills:
 •	Python, Django, Django REST Framework
 •	Node.js, Express.js, Passport.js, Jwt.js
 •	Laravel, Symfony, Eloquent ORM, CakePHP
-•	Ruby on Rails, Rspec, Sidekiq, Resque 
+•	Ruby on Rails, Rspec, Sidekiq, Resque
 •	MongoDB, MySQL, PostgreSQL
 •	TypeScript, ES6/7, JavaScript, HTML5, CSS3, LESS/Sass/SCSS, AWS, Firebase
 •	Project management software ( Jira, Asana, Trello, Redmine )
