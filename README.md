@@ -7,7 +7,9 @@ Passionate about utilizing cutting-edge technologies to meet user requirements e
 Tech Skills: 
 
 •	React/Redux – React-Hook, Redux-Saga, Redux-Thunk, Next.js, Gatsby.js, React-Helmet, React-Router, Redux-Form, Reselect, Context, Axios
+
 •	Vue.js – VueX, Vuetify.js, Vue Material, Nuxt.js
+
 •	Material-UI, Semantic UI, Core UI, Ant Design, Bootstrap
 •	Python, Django, Django REST Framework
 •	Node.js, Express.js, Passport.js, Jwt.js
